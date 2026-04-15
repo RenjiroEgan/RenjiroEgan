@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Egan;Welcome+to+My+Profile;Enterprise+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Egan;Welcome+to+My+Profile" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  I am an aspiring data guy who specializes in optimizing business processes. I love spending my free time doing this as a hobby (weird). I use GitHub for either version control or just to show off my not-so unique/polished projects.
+  I am an aspiring data guy who specializes in optimizing business processes. I love spending my free time doing this as a hobby. Hoping to make unique projects as I go.
 </p>
 
 ---
@@ -28,7 +28,15 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&title_color=F97316&icon_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true&ring_color=F97316" alt="Renjiro Egan's GitHub Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&title_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&title_color=F97316&icon_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true&ring_color=F97316" alt="Renjiro Egan's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&title_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
