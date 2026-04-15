@@ -29,6 +29,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&title_color=F97316&icon_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true&ring_color=F97316" alt="Renjiro Egan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&title_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&title_color=F97316&icon_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true&ring_color=F97316" alt="Renjiro Egan's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&title_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
