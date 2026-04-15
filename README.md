@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I am an aspiring data guy who specializes in optimizing business processes. I love spending my free time doing this as a hobby. Hoping to make unique projects as I go.
+  I am an aspiring analytics and automation guy who specializes in optimizing business processes. I love spending my free time doing this as a hobby. Hoping to make unique projects as I go.
 </p>
 
 ---
