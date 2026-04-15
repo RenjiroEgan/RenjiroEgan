@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&height=100&lines=Hi,+I'm+Egan;Solutions+Designer;Enterprise+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Egan;Welcome+to+My+Profile;Enterprise+Systems" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  I am an aspiring <b>Solutions Designer</b> who specializes in optimizing business processes. While enterprise systems is my primary focus, I love spending my free time doing this as a hobby.
+  I am an aspiring data guy who specializes in optimizing business processes. I love spending my free time doing this as a hobby (weird). I use GitHub for either version control or just to show off my not-so unique/polished projects.
 </p>
 
 ---
@@ -29,6 +29,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Renjiro Egan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&title_color=F97316&icon_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true&ring_color=F97316" alt="Renjiro Egan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&title_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
