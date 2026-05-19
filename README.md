@@ -23,20 +23,3 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=RenjiroEgan&show_icons=true&title_color=F97316&icon_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true&ring_color=F97316" alt="Renjiro Egan's GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiroEgan&layout=compact&title_color=F97316&text_color=a3a3a3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
