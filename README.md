@@ -10,10 +10,7 @@
 $ cat about.md
 ```
 
-Dual degree in Computer Science + Information Systems (Fintech). Currently building AI agent
-pipelines and data infra in HR tech — CV screening, job matching, background-check agents, and
-the analytics stack that quietly runs underneath. Ask me why HR needs a data engineer and I will
-talk for 45 minutes.
+uh welcome. just ur average engineer
 
 ```bash
 $ ls tech_stack/
