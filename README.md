@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=750&height=90&lines=%24+whoami;Muhammad+Egan+Renjiro;%24+cat+current_role.sh;HR+Analytics+%26+AI+%40+PT+Surya+Citra+Media+->+EY+Consulting%2C+KL;%24+cat+mission.txt;Building+AI+agents+HR+never+asked+for;%24+echo+%24STATUS;Relocating+to+Kuala+Lumpur+%E2%80%94+Sept+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=750&height=90&lines=%24+whoami;Muhammad+Egan+Renjiro;%24+cat+mood.txt;professionally+caffeinated%2C+mildly+feral;%24+sudo+rm+-rf+boring_readmes%2F;Permission+granted." alt="Typing SVG" />
 </h1>
 
 <p align="center"><em>terminal open. building things HR shouldn't be able to.</em></p>
@@ -11,13 +11,17 @@ $ cat about.md
 ```
 
 Dual degree in Computer Science + Information Systems (Fintech). Currently building AI agent
-pipelines and data infrastructure inside HR at a Jakarta media conglomerate — CV screening,
-job matching, background-check agents, and the analytics stack underneath them. Relocating to
-Kuala Lumpur for EY Consulting, Sept 2026.
+pipelines and data infra in HR tech — CV screening, job matching, background-check agents, and
+the analytics stack that quietly runs underneath. Ask me why HR needs a data engineer and I will
+talk for 45 minutes.
 
 ```bash
 $ ls tech_stack/
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=500&height=35&lines=%24+sudo+apt+install+skills;Reading+changelog...+it%27s+long." alt="Typing SVG" />
+</p>
 
 **languages/**
 <p>
@@ -79,6 +83,10 @@ $ ls tech_stack/
 $ ls projects/
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=500&height=35&lines=%24+git+log+--oneline+-2;fix%3A+bug+nobody+reported;feat%3A+nobody+asked%2C+shipped+anyway" alt="Typing SVG" />
+</p>
+
 **DistressAI** — XGBoost financial distress screener (AUC 0.992) with SHAP explainability,
 FastAPI + React. FYP-derived, open-sourced.
 → [github.com/RenjiroEgan/DistressAI](https://github.com/RenjiroEgan/DistressAI)
@@ -88,6 +96,10 @@ FastAPI + React. FYP-derived, open-sourced.
 ```bash
 $ cat contact.txt
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&width=500&height=35&lines=%24+ping+human.exe;64+bytes+from+egan%3A+time%3D0ms" alt="Typing SVG" />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/jiroegan/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
