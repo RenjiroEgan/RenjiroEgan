@@ -88,8 +88,6 @@ $ ls projects/
 FastAPI + React. FYP-derived, open-sourced.
 → [github.com/RenjiroEgan/DistressAI](https://github.com/RenjiroEgan/DistressAI)
 
-**ReceiptIQ** — AI-powered receipt parsing and claims-management pipeline. *(private)*
-
 ```bash
 $ cat contact.txt
 ```
